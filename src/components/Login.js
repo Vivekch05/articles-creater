@@ -50,7 +50,7 @@ export default class Login extends Component {
                                         type="text" name="userName"
                                         value={userName}
                                         onChange={this.handleChange}
-                                        placeholder="Enter Your Id"
+                                        placeholder="Enter Your User Name"
                                         className="bg-white text-black"
                                     />
                                     <Form.Label>Full Name</Form.Label>
@@ -58,7 +58,7 @@ export default class Login extends Component {
                                         type="password" name="password"
                                         value={password}
                                         onChange={this.handleChange}
-                                        placeholder="Enter Your Full Name"
+                                        placeholder="Enter Your Password"
                                         className="bg-white text-black"
                                     />
                                 </Form.Group>
