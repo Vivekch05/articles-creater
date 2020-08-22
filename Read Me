@@ -1,0 +1,14 @@
+first go inside  follow path  article-creater/src 
+start json serever using command:  json-server --watch db.json
+start server on 3000 port.
+
+after that start react application on any port
+
+first login page will come use
+username:  Vivek
+password: 12345
+
+after login you will be redirect to main page where  You can create article and see all articles ou can edit and delete it.
+
+Logout button will be there you can logout from there.
+
