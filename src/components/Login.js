@@ -58,11 +58,7 @@ export default class Login extends Component {
                                         type="password" name="password"
                                         value={password}
                                         onChange={this.handleChange}
-<<<<<<< HEAD
                                         placeholder="Enter Your password"
-=======
-                                        placeholder="Enter Your Password"
->>>>>>> ba8dee543700449c089d5b1c3b13ea6ace928717
                                         className="bg-white text-black"
                                     />
                                 </Form.Group>
